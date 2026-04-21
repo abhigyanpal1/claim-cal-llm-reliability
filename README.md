@@ -184,11 +184,13 @@ An automated second-judge robustness check is included, but this should not be t
 If you use this work, please cite:
 
 ```bibtex
-@misc{claimcal2026,
+@misc{pal2026claimcal,
   title={Improving Reliability of Large Language Models via Claim-Level Self-Verification and Uncertainty Calibration},
-  author={Abhigyan Pal},
+  author={Pal, Abhigyan},
   year={2026},
-  note={Preprint}
+  doi={10.5281/zenodo.19680282},
+  url={https://doi.org/10.5281/zenodo.19680282},
+  note={Research code, results, and artifacts}
 }
 ```
 
