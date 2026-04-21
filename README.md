@@ -1,5 +1,7 @@
 # CLAIM-CAL: Claim-Level Self-Verification for Calibrated LLM Reliability
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19680282.svg)](https://doi.org/10.5281/zenodo.19680282)
+
 This repository contains the code, results, figures, and research paper for **CLAIM-CAL**, a research experiment focused on improving the reliability of Large Language Models through claim-level self-verification and uncertainty calibration.
 
 ## Overview
