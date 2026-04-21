@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+*.key
+*.pem
+
+# API/cache files
+llm_cache.jsonl
+second_judge_cache.jsonl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large temporary outputs
+claim_cal_outputs/
+claim_cal_outputs_200/

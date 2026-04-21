@@ -1,0 +1,10 @@
+datasets
+openai
+tenacity
+scikit-learn
+pandas
+numpy
+matplotlib
+tqdm
+python-dotenv
+scipy
